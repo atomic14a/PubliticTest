@@ -9,7 +9,7 @@ const siteConfig = {
 
   // Configuration for Page 1 redirect feature
   redirectUrl: "https://newvideo.motox3m.co.uk/chat/maryam/", // Replace with your desired target link
-  redirectTimeoutSeconds: 4 // The time in seconds to wait before auto-redirecting
+  redirectTimeoutSeconds: 5 // The time in seconds to wait before auto-redirecting
 };
 
 export default siteConfig;
